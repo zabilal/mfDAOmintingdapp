@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x973b21b429F22354cEA65516d88788481D6B003F",
+  "SCAN_LINK": "https://ropsten.etherscan.io/address/0x973b21b429f22354cea65516d88788481d6b003f",
+  "NETWORK": {
+    "NAME": "Ethereum Ropsten",
+    "SYMBOL": "ETH",
+    "ID": 3 
+  },
+  "NFT_NAME": "HW Wallet",
+  "SYMBOL": "HW wallet",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 75000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mutantflokiwilljack",
+  "SHOW_BACKGROUND": true
+}

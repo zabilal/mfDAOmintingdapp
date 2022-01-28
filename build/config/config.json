@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa8260cd3ab7dea3afa65044dccc5be15190ec6d0",
+  "SCAN_LINK": "https://etherscan.io/address/0xa8260cd3ab7dea3afa65044dccc5be15190ec6d0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1 
+  },
+  "NFT_NAME": "Mutant Floki",
+  "SYMBOL": "Mutant Floki",
+  "MAX_SUPPLY": 4200,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 69000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mutantflokiwilljack",
+  "SHOW_BACKGROUND": true
+}
